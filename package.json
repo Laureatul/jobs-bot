@@ -1,0 +1,13 @@
+{
+  "name": "joburi-discord-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord pentru joburi legale, ilegale si happy hours",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.4.5"
+  }
+}
