@@ -19,3 +19,5 @@ npm start
 ```
 
 Setează tokenul si channel ID în `.env`
+TOKEN= "Bot Token"
+CHANNEL_ID = "Discord channel id"
